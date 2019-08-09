@@ -1,0 +1,67 @@
+.popular__recipes{
+    width: 240px;
+    height:160px;
+    padding-top: 10px;
+}
+
+.popular__recipes .popular__recipes__fistline, .popular__recipes__secondline{
+    width: 100%;
+    height: 77px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.popular__recipes .popular__recipes__secondline{
+    padding-top: 10px;
+}
+
+.popular__recipes .image1{
+    width: 115px;
+    height: 77px;
+    border-radius: 20px;
+    font-size:11px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(../images/homecooking.jpg);
+}
+
+.popular__recipes .image2{
+    width: 115px;
+    height: 77px;
+    border-radius: 20px;
+    font-size:11px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(../images/pastryrecipes.jpg);
+}
+
+
+.popular__recipes .image3{
+    width: 115px;
+    height: 77px;
+    border-radius: 20px;
+    font-size:11px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(../images/forbabies.jpg);
+}
+
+
+.popular__recipes .image4{
+    width: 115px;
+    height: 77px;
+    border-radius: 20px;
+    font-size:11px;
+    font-weight: 700;
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    background-image: url(../images/smoothierecipes.jpg);
+}

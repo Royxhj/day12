@@ -1,0 +1,15 @@
+.navi{
+    height: 40px;
+    width: 100%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    opacity: 0.5;
+    background-color: white;
+}
+
+.navi .navi__list:nth-child(2){
+    color:red;
+}
